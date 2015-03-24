@@ -70,3 +70,11 @@
   Owner                    = {VanNeygen},
   Timestamp                = {2015.03.24}
 }
+
+@Electronic{casinogokken.nl,
+  Author                   = {casinogokken.nl},
+  Url                      = {http://www.casinogokken.net/strategieen/blackjack/},
+
+  Owner                    = {VanNeygen},
+  Timestamp                = {2015.03.24}
+}
