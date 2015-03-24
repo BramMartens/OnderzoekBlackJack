@@ -78,3 +78,13 @@
   Owner                    = {VanNeygen},
   Timestamp                = {2015.03.24}
 }
+
+@Electronic{Snyder1995,
+  Author                   = {Arnold Snyder},
+  HowPublished             = {Player Magazine},
+  Url                      = {http://www.blackjackforumonline.com/content/Betting_Systems_Oscars_Blackjack_System.htm},
+  Year                     = {1995},
+
+  Owner                    = {VanNeygen},
+  Timestamp                = {2015.03.24}
+}
