@@ -10,6 +10,5 @@ Mogelijke onderzoeksvragen:
 -	Met hoeveel spelers aan eenzelfde tafel heb je het meeste kans om te winnen?
 -	In hoeverre gaat men afwijken van de ‘blackjack strategy chart’?
 -	Hoe groot zijn de verschillen in de de verschillende strategieën?
--	
 
 
