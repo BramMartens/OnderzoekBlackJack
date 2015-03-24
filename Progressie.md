@@ -3,6 +3,7 @@ Onze paper:
 -	De gevonden strategieën gaat men dan in een tabel/op grafieken met elkaar vergelijken op een aantal vlakken, zoals hoeveelheid kansen, wanneer callen, wanneer raisen,…
 -	De strategieën die men al gaat opnemen:
    - Wizard of odds
+   - Blackjack Strategy
    - …
 -	Aan de hand van een freeware (blackjack simulatieprogramma) gaat men deze strategieën nabootsen 
 
