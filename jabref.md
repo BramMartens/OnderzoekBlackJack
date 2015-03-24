@@ -63,3 +63,10 @@
   Timestamp                = {2015.03.18}
 }
 
+@Electronic{blackjackspelregels.com,
+  Author                   = {blackjackspelregels.com},
+  Url                      = {http://www.blackjackspelregels.com/blackjack-strategie/},
+
+  Owner                    = {VanNeygen},
+  Timestamp                = {2015.03.24}
+}
