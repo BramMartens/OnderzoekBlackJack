@@ -2,8 +2,8 @@ Onze paper:
 -	We gaan eerst een aantal strategieën opzoeken en deze gaat men kort samenvatten.
 -	De gevonden strategieën gaat men dan in een tabel/op grafieken met elkaar vergelijken op een aantal vlakken, zoals hoeveelheid kansen, wanneer callen, wanneer raisen,…
 -	De strategieën die men al gaat opnemen:
-o	Wizard of odds
-o	…
+   - Wizard of odds
+   - …
 -	Aan de hand van een freeware (blackjack simulatieprogramma) gaat men deze strategieën nabootsen 
 
 Mogelijke onderzoeksvragen:
