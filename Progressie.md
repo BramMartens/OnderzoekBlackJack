@@ -4,7 +4,7 @@ Onze paper:
 -	De strategieën die men al gaat opnemen:
    - Wizard of odds
    - Blackjack Strategy
-   - Evnetueel eigen strategie
+   - Eventueel eigen strategie
 -	Aan de hand van een freeware (blackjack simulatieprogramma) gaat men deze strategieën nabootsen 
 -	We gaan deze verzamelde date met elkaar vergelijken en kijken of de waarden overeenkomen met wat we verwacht hadden.
 
